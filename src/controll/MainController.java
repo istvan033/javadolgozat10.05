@@ -1,3 +1,12 @@
+/*
+* File: MainConsole.java
+* Author: Pásztor István
+* Copyright: 2023, Plesovszki István
+* Group: SZOFT II/2/N
+* Date: 2023-10-05
+* Github: https://github.com/istvan033
+* Licenc: GNU GPL
+*/
 
 
 package controll;

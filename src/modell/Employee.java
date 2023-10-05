@@ -1,3 +1,12 @@
+/*
+* File: Employee.java
+* Author: Pászor István
+* Copyright: 2023, Pászor István
+* Group: SZOFT II/2/N
+* Date: 2023-10-05
+* Github: https://github.com/istvan033
+* Licenc: GNU GPL
+*/
 
 package modell;
 
